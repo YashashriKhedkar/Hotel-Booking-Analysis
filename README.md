@@ -23,7 +23,8 @@ Room type A and meal plan BB are the most popular choices.
 Bookings peak during August, July, and May.
 TA/TO channels dominate distribution, while GDS channels play a major role in increasing ADR.
 Portugal leads in customer bookings.
-Outputs
+
+## Outputs:
 The project delivered visualizations that showcase booking trends, cancellation rates, and customer demographics, created using Python and Tableau.
 
 # Conclusion:
